@@ -1,0 +1,58 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+
+/.vs
+/4InShip.com/Uploads
+/4InShip.com/bin
+/packages/*
+*/obj/*
+/4InShip.com/obj/*
+/4InShip.com/.svn
+###################
+# compiled source #
+###################
+/4InShip.com/bin/*.com1
+/4InShip.com/*.exe
+/4InShip.com/bin/*.pdb
+/4InShip.com/bin/*.dll.config
+/4InShip.com/*.cache
+/4InShip.com/*.suo
+
+
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+# Include dlls if they’re in the NuGet packages directory
+!/packages/*/lib/*.dll
+!/packages/*/lib/*/*.dll
+
+# Directories #
+###############
+4InShip.com/bin/
+4InShip.com/obj/
+4InShip.com/TestResults/
+# OS generated files #
+######################
+
+*.suo
+*.user
+*.[Cc]ache
+*[Rr]esharper*
+packages
+NuGet.exe
+_[Ss]cripts
+*.exe
+*.dll
+#ignore obj and release
+
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
+
+
