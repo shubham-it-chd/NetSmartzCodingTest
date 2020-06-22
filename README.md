@@ -1,8 +1,5 @@
-# NetSmartzCodingTest
-This repo include NetSmartz coding interview test.  
 # NetSmartz Interview Coding Test
 This repo include Interview Coding test.
-
 
 ## Requirements:
 There is online portal where user can add product with its relative category. One
